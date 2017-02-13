@@ -1,0 +1,19 @@
+{
+  "name": "my-apps",
+  "version": "1.0.0",
+  "description": "my first apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octopusgen/my-apps.git"
+  },
+  "author": "leonardoolmos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octopusgen/my-apps/issues"
+  },
+  "homepage": "https://github.com/octopusgen/my-apps#readme"
+}
